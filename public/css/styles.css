@@ -1,0 +1,82 @@
+/* ===== Estilos base (Bootstrap no cubre) ===== */
+html,
+body {
+  height: 100%;
+}
+
+/* ===== Layout principal ===== */
+#map {
+  width: 100%;
+  height: 100%;
+  min-height: calc(100vh - 112px);
+}
+
+/* ===== Sidebar ===== */
+.sidebar-column {
+  width: 320px;
+}
+
+/* ===== Lista de puntos ===== */
+.point-item.is-selected {
+  background-color: #eef5ff !important;
+}
+
+/* ===== Botón favorito ===== */
+.favorite-btn {
+  min-width: 56px;
+  min-height: 44px;
+}
+
+.favorite-btn.is-favorite {
+  background-color: var(--bs-secondary) !important;
+  border-color: var(--bs-secondary) !important;
+  color: #fff !important;
+}
+
+/* ===== Leaflet popup ===== */
+.leaflet-popup-content {
+  margin: 10px 14px;
+}
+
+/* ===== Responsive (Bootstrap breakpoint lg) ===== */
+@media (max-width: 991.98px) {
+  .sidebar-column {
+    width: 100%;
+    max-height: 40vh;
+  }
+
+  #map {
+    min-height: 60vh;
+  }
+}
+
+
+.swal2-popup {
+  border-radius: 0.75rem;
+}
+
+.swal2-title {
+  font-size: 1.2rem !important;
+  font-weight: 700 !important;
+  color: #4a4a4a !important;
+}
+
+.swal2-html-container {
+  margin-top: 0.5rem !important;
+}
+
+.swal-point-content {
+  text-align: center;
+  color: #555;
+}
+
+.swal-point-address {
+  font-size: 1.05rem;
+  margin-bottom: 1rem;
+}
+
+.swal-point-description {
+  font-size: 1rem;
+  line-height: 1.45;
+  margin: 0;
+}
