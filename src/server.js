@@ -1,3 +1,4 @@
+require('dotenv').config();
 const path = require('path');
 const express = require('express');
 const session = require('express-session');
@@ -13,7 +14,7 @@ app.use(express.json());
 
 app.use(
   session({
-    secret: process.env.SESSION_SECRET || 'malaga-secret-examen',
+    secret: process.env.SESSION_SECRET || 'ClaveSuperSecreta',
     resave: false,
     saveUninitialized: false,
     cookie: {
