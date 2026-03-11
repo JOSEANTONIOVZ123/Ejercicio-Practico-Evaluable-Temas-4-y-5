@@ -1,82 +1,246 @@
-/* ===== Estilos base (Bootstrap no cubre) ===== */
 html,
 body {
   height: 100%;
+  margin: 0;
 }
 
-/* ===== Layout principal ===== */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  overflow: hidden;
+}
+
+.app-shell {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-main {
+  flex: 1;
+  display: flex;
+  min-height: 0;
+}
+
+.map-column {
+  flex: 1 1 auto;
+  min-width: 0;
+  min-height: 0;
+}
+
 #map {
   width: 100%;
   height: 100%;
-  min-height: calc(100vh - 112px);
 }
 
-/* ===== Sidebar ===== */
 .sidebar-column {
-  width: 320px;
+  width: 360px;
+  flex: 0 0 360px;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  flex-shrink: 0;
 }
 
-/* ===== Lista de puntos ===== */
+.sidebar-header {
+  padding: 1rem;
+  flex-shrink: 0;
+}
+
+#points-list {
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.app-footer {
+  flex-shrink: 0;
+}
+
+.point-item {
+  border: 0;
+  border-bottom: 1px solid #dee2e6 !important;
+  border-radius: 0 !important;
+  text-align: left;
+  padding: 1rem;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.point-item:hover {
+  background-color: #f8f9fa;
+}
+
 .point-item.is-selected {
-  background-color: #eef5ff !important;
+  background-color: #eef5ff;
 }
 
-/* ===== Botón favorito ===== */
+.point-item-content {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.point-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.point-title {
+  margin: 0 0 0.35rem;
+  font-size: 1.1rem;
+  line-height: 1.2;
+  font-weight: 500;
+  color: #212529;
+}
+
+.point-address {
+  margin: 0;
+  font-size: 0.95rem;
+  color: #212529;
+  text-transform: uppercase;
+}
+
+.point-actions {
+  flex-shrink: 0;
+}
+
 .favorite-btn {
   min-width: 56px;
   min-height: 44px;
+  font-size: 1.2rem;
 }
 
 .favorite-btn.is-favorite {
-  background-color: var(--bs-secondary) !important;
-  border-color: var(--bs-secondary) !important;
-  color: #fff !important;
+  background-color: #6c757d;
+  border-color: #6c757d;
+  color: #fff;
 }
 
-/* ===== Leaflet popup ===== */
+.empty-state {
+  padding: 1rem;
+}
+
 .leaflet-popup-content {
   margin: 10px 14px;
 }
 
-/* ===== Responsive (Bootstrap breakpoint lg) ===== */
+.poi-swal-popup {
+  border-radius: 1rem !important;
+  padding-top: 0.8rem !important;
+  padding-bottom: 1rem !important;
+}
+
+.poi-swal-title {
+  font-size: 2rem !important;
+  font-weight: 700 !important;
+  color: #4f4f4f !important;
+}
+
+.poi-swal-html {
+  margin-top: 0.5rem !important;
+}
+
+.poi-swal-content {
+  text-align: left;
+  color: #4f4f4f;
+}
+
+.poi-swal-address {
+  text-align: center;
+  font-size: 1.15rem;
+  margin-bottom: 1.2rem;
+}
+
+.poi-swal-description {
+  text-align: center;
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-bottom: 1.5rem;
+}
+
+.poi-swal-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.9rem;
+  margin-bottom: 1.2rem;
+}
+
+.poi-swal-box {
+  background: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 0.85rem;
+  padding: 0.9rem;
+}
+
+.poi-swal-details {
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+}
+
+.poi-swal-detail-row {
+  background: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 0.85rem;
+  padding: 0.9rem 1rem;
+}
+
+.poi-swal-label {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  color: #6c757d;
+  margin-bottom: 0.3rem;
+  font-weight: 700;
+}
+
+.poi-swal-value {
+  font-size: 1rem;
+  color: #343a40;
+  line-height: 1.45;
+  word-break: break-word;
+}
+
 @media (max-width: 991.98px) {
-  .sidebar-column {
-    width: 100%;
-    max-height: 40vh;
+  body {
+    overflow: auto;
+  }
+
+  .app-shell {
+    height: auto;
+    min-height: 100vh;
+  }
+
+  .app-main {
+    flex-direction: column;
+  }
+
+  .map-column {
+    min-height: 60vh;
   }
 
   #map {
     min-height: 60vh;
   }
+
+  .sidebar-column {
+    width: 100%;
+    flex: 0 0 auto;
+    max-height: 40vh;
+  }
 }
 
+@media (max-width: 768px) {
+  .poi-swal-grid {
+    grid-template-columns: 1fr;
+  }
 
-.swal2-popup {
-  border-radius: 0.75rem;
-}
+  .poi-swal-title {
+    font-size: 1.5rem !important;
+  }
 
-.swal2-title {
-  font-size: 1.2rem !important;
-  font-weight: 700 !important;
-  color: #4a4a4a !important;
-}
-
-.swal2-html-container {
-  margin-top: 0.5rem !important;
-}
-
-.swal-point-content {
-  text-align: center;
-  color: #555;
-}
-
-.swal-point-address {
-  font-size: 1.05rem;
-  margin-bottom: 1rem;
-}
-
-.swal-point-description {
-  font-size: 1rem;
-  line-height: 1.45;
-  margin: 0;
+  .poi-swal-address {
+    font-size: 1rem;
+  }
 }

@@ -16,8 +16,8 @@
     />
     <link rel="stylesheet" href="/css/styles.css" />
   </head>
-  <body class="overflow-hidden">
-    <div class="min-vh-100 d-flex flex-column">
+  <body>
+    <div class="app-shell">
       <nav class="navbar navbar-dark bg-primary shadow-sm px-3">
         <div class="container-fluid px-0">
           <span class="navbar-brand mb-0 h1 fw-normal fs-2">Monumentos de Málaga</span>
@@ -29,24 +29,24 @@
         </div>
       </nav>
 
-      <main class="flex-grow-1 d-flex flex-column flex-lg-row min-h-0">
-        <section class="flex-grow-1 min-w-0">
+      <main class="app-main">
+        <section class="map-column">
           <div id="map"></div>
         </section>
 
-        <aside class="sidebar-column bg-white border-start d-flex flex-column min-h-0">
-          <div class="p-3 border-bottom bg-light sticky-top z-1">
+        <aside class="sidebar-column bg-white border-start">
+          <div class="sidebar-header border-bottom bg-light">
             <h2 class="h5 mb-1">Puntos de interés</h2>
             <p class="text-muted small mb-0">
               Pulsa un elemento del listado o un marcador del mapa.
             </p>
           </div>
 
-          <div id="points-list" class="list-group list-group-flush overflow-auto flex-grow-1"></div>
+          <div id="points-list" class="list-group list-group-flush"></div>
         </aside>
       </main>
 
-      <footer class="bg-primary text-white text-center py-2 small">
+      <footer class="app-footer bg-primary text-white text-center py-2 small">
         Examen de Francisco Romero - 2DAW - Málaga
       </footer>
     </div>
@@ -102,30 +102,6 @@
               </button>
             </div>
           </form>
-        </div>
-      </div>
-    </div>
-
-    <div class="modal fade" id="pointModal" tabindex="-1" aria-hidden="true">
-      <div class="modal-dialog modal-dialog-centered">
-        <div class="modal-content">
-          <div class="modal-header">
-            <h5 class="modal-title" id="point-modal-title">Detalle</h5>
-            <button
-              type="button"
-              class="btn-close"
-              data-bs-dismiss="modal"
-              aria-label="Cerrar"
-            ></button>
-          </div>
-
-          <div class="modal-body">
-            <p
-              id="point-modal-address"
-              class="text-uppercase small text-muted mb-3"
-            ></p>
-            <div id="point-modal-extra"></div>
-          </div>
         </div>
       </div>
     </div>

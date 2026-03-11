@@ -19,15 +19,9 @@ const authBtn = document.getElementById('auth-btn');
 const sessionBadge = document.getElementById('session-badge');
 const loginForm = document.getElementById('login-form');
 const pointsList = document.getElementById('points-list');
-const pointModalTitle = document.getElementById('point-modal-title');
-const pointModalAddress = document.getElementById('point-modal-address');
-const pointModalExtra = document.getElementById('point-modal-extra');
 
 const loginModalElement = document.getElementById('loginModal');
-const pointModalElement = document.getElementById('pointModal');
-
 const loginModal = new bootstrap.Modal(loginModalElement);
-const pointModal = new bootstrap.Modal(pointModalElement);
 
 function escapeHtml(value) {
   const div = document.createElement('div');
@@ -66,6 +60,7 @@ function getPropValue(props, keys) {
 
 function normalizeUrl(url) {
   if (!url) return '';
+
   const trimmed = String(url).trim();
 
   if (
@@ -80,7 +75,7 @@ function normalizeUrl(url) {
 }
 
 function formatMultilineText(text) {
-  return escapeHtml(text).replace(/\n/g, '<br>');
+  return escapeHtml(text).replace(/\r?\n/g, '<br>');
 }
 
 function buildPointId(feature, index, title, lat, lng) {
@@ -98,7 +93,10 @@ function normalizeFeature(feature, index) {
     return null;
   }
 
-  if (!Array.isArray(feature.geometry.coordinates) || feature.geometry.coordinates.length < 2) {
+  if (
+    !Array.isArray(feature.geometry.coordinates) ||
+    feature.geometry.coordinates.length < 2
+  ) {
     return null;
   }
 
@@ -231,23 +229,12 @@ function createMarker(point) {
   state.markersById.set(point.id, marker);
 }
 
-function buildDetailBlock(label, value, multiline = false) {
-  if (!value) return '';
-
-  return `
-    <div class="mb-3">
-      <div class="detail-label">${escapeHtml(label)}</div>
-      <div class="detail-value">${multiline ? formatMultilineText(value) : escapeHtml(value)}</div>
-    </div>
-  `;
-}
-
 function showPointModal(point) {
   const safeUrl = normalizeUrl(point.url);
 
   Swal.fire({
     icon: 'info',
-    title: escapeHtml(point.title),
+    titleText: point.title,
     confirmButtonText: 'OK',
     width: 760,
     customClass: {
@@ -280,79 +267,116 @@ function showPointModal(point) {
         </div>
 
         <div class="poi-swal-details">
-          ${point.titularidad ? `
-            <div class="poi-swal-detail-row">
-              <div class="poi-swal-label">Titularidad</div>
-              <div class="poi-swal-value">${escapeHtml(point.titularidad)}</div>
-            </div>
-          ` : ''}
+          ${
+            point.titularidad
+              ? `
+                <div class="poi-swal-detail-row">
+                  <div class="poi-swal-label">Titularidad</div>
+                  <div class="poi-swal-value">${escapeHtml(point.titularidad)}</div>
+                </div>
+              `
+              : ''
+          }
 
-          ${point.accesoPMR ? `
-            <div class="poi-swal-detail-row">
-              <div class="poi-swal-label">Acceso PMR</div>
-              <div class="poi-swal-value">${escapeHtml(point.accesoPMR)}</div>
-            </div>
-          ` : ''}
+          ${
+            point.accesoPMR
+              ? `
+                <div class="poi-swal-detail-row">
+                  <div class="poi-swal-label">Acceso PMR</div>
+                  <div class="poi-swal-value">${escapeHtml(point.accesoPMR)}</div>
+                </div>
+              `
+              : ''
+          }
 
-          ${point.tarjetaJoven ? `
-            <div class="poi-swal-detail-row">
-              <div class="poi-swal-label">Tarjeta Joven</div>
-              <div class="poi-swal-value">${escapeHtml(point.tarjetaJoven)}</div>
-            </div>
-          ` : ''}
+          ${
+            point.tarjetaJoven
+              ? `
+                <div class="poi-swal-detail-row">
+                  <div class="poi-swal-label">Tarjeta Joven</div>
+                  <div class="poi-swal-value">${escapeHtml(point.tarjetaJoven)}</div>
+                </div>
+              `
+              : ''
+          }
 
-          ${point.contacto ? `
-            <div class="poi-swal-detail-row">
-              <div class="poi-swal-label">Contacto</div>
-              <div class="poi-swal-value">${escapeHtml(point.contacto)}</div>
-            </div>
-          ` : ''}
+          ${
+            point.contacto
+              ? `
+                <div class="poi-swal-detail-row">
+                  <div class="poi-swal-label">Contacto</div>
+                  <div class="poi-swal-value">${escapeHtml(point.contacto)}</div>
+                </div>
+              `
+              : ''
+          }
 
-          ${point.horarios ? `
-            <div class="poi-swal-detail-row">
-              <div class="poi-swal-label">Horarios</div>
-              <div class="poi-swal-value">${formatMultilineText(point.horarios)}</div>
-            </div>
-          ` : ''}
+          ${
+            point.horarios
+              ? `
+                <div class="poi-swal-detail-row">
+                  <div class="poi-swal-label">Horarios</div>
+                  <div class="poi-swal-value">${formatMultilineText(point.horarios)}</div>
+                </div>
+              `
+              : ''
+          }
 
-          ${point.precios ? `
-            <div class="poi-swal-detail-row">
-              <div class="poi-swal-label">Precios</div>
-              <div class="poi-swal-value">${formatMultilineText(point.precios)}</div>
-            </div>
-          ` : ''}
+          ${
+            point.precios
+              ? `
+                <div class="poi-swal-detail-row">
+                  <div class="poi-swal-label">Precios</div>
+                  <div class="poi-swal-value">${formatMultilineText(point.precios)}</div>
+                </div>
+              `
+              : ''
+          }
 
-          ${point.infoEsp ? `
-            <div class="poi-swal-detail-row">
-              <div class="poi-swal-label">Información adicional</div>
-              <div class="poi-swal-value">${formatMultilineText(point.infoEsp)}</div>
-            </div>
-          ` : ''}
+          ${
+            point.infoEsp
+              ? `
+                <div class="poi-swal-detail-row">
+                  <div class="poi-swal-label">Información adicional</div>
+                  <div class="poi-swal-value">${formatMultilineText(point.infoEsp)}</div>
+                </div>
+              `
+              : ''
+          }
 
-          ${point.email ? `
-            <div class="poi-swal-detail-row">
-              <div class="poi-swal-label">Email</div>
-              <div class="poi-swal-value">
-                <a href="mailto:${escapeHtml(point.email)}">${escapeHtml(point.email)}</a>
-              </div>
-            </div>
-          ` : ''}
+          ${
+            point.email
+              ? `
+                <div class="poi-swal-detail-row">
+                  <div class="poi-swal-label">Email</div>
+                  <div class="poi-swal-value">
+                    <a href="mailto:${escapeHtml(point.email)}">${escapeHtml(point.email)}</a>
+                  </div>
+                </div>
+              `
+              : ''
+          }
 
-          ${safeUrl ? `
-            <div class="poi-swal-detail-row">
-              <div class="poi-swal-label">Web</div>
-              <div class="poi-swal-value">
-                <a href="${escapeHtml(safeUrl)}" target="_blank" rel="noopener noreferrer">
-                  ${escapeHtml(point.url)}
-                </a>
-              </div>
-            </div>
-          ` : ''}
+          ${
+            safeUrl
+              ? `
+                <div class="poi-swal-detail-row">
+                  <div class="poi-swal-label">Web</div>
+                  <div class="poi-swal-value">
+                    <a href="${escapeHtml(safeUrl)}" target="_blank" rel="noopener noreferrer">
+                      ${escapeHtml(point.url)}
+                    </a>
+                  </div>
+                </div>
+              `
+              : ''
+          }
         </div>
       </div>
     `
   });
 }
+
 function focusPoint(pointId) {
   const point = state.points.find((item) => item.id === pointId);
   if (!point) return;
@@ -614,11 +638,11 @@ function initMap() {
 }
 
 async function initApp() {
-  initMap();
   attachListEvents();
   loginForm.addEventListener('submit', handleLoginSubmit);
   authBtn.addEventListener('click', handleAuthButtonClick);
 
+  initMap();
   await fetchSession();
   await loadGeoJson();
 }
