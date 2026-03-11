@@ -1,0 +1,1720 @@
+{
+    "type": "FeatureCollection",
+    "totalFeatures": 61,
+    "features": [
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4dd2",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42016,
+                    36.71860991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4335,
+                "NOMBRE": "Estatua de Hans Christian Andersen",
+                "DESCRIPCION": "Obra en bronce del escultor José María Córdoba por encargo de la Casa Real Danesa,  nos presenta al escritor danés sentando en un banco, en actitud relajada. Una escena que podría reflejar a la perfección algunos de esos momentos que el autor de La Sirenita pasó en nuestra ciudad durante los primeros días de octubre de 1862, y que recogió en su obra Viaje por España. Cautivado por la belleza de Málaga, por el mar, su luz y su gente, Andersen llegó a escribir que \"en ninguna otra ciudad española he llegado a sentirme tan dichoso y tan a gusto como en Málaga\". La obra invita a acercarse y a sentarse al lado de la figura del escritor, a admirar y sentir respeto por su obra y apreciar su forma pionera de viajar siendo uno de los primeros viajeros cultos del siglo XIX.",
+                "DIRECCION": "PLAZA DE LA MARINA, 4 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "MUNICIPAL",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "Si",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4dd3",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41985363,
+                    36.71733803,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4349,
+                "NOMBRE": "Junta de Obras del Puerto",
+                "DESCRIPCION": "Periodo: Siglo XX. Construido entre 1932-35, con proyecto y dirección del ingeniero Manuel Aceña González, se localiza dentro del recinto del Puerto. Es un edificio de interés, de aspecto noble y estilo tradicionalista que enlaza con fórmulas empleadas en edificios históricos de función similar. Es de planta cuadrada, con cuerpo bajo almohadillado, adelantando ante la entrada un pórtico tetrástilo dórico que sostiene una balconada, al que se abren los vanos centrales del piso principal, de aquí arranca un apilastrado gigante alternando con el fenestraje y se remata, tras las cornisas, en un frontón con el reloj y los escudos del cuerpo de Ingenieros y de la Ciudad. En el interior destaca un magnífico salón de Juntas y una amplia escalera principal imperial.",
+                "DIRECCION": "PLAZA DE LA MARINA, 5 ",
+                "URL": "http://www.puertomalaga.com",
+                "EMAIL": "administrador@puertomalaga.com",
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "AUTONOMICA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4dd4",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41744,
+                    36.72017991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4307,
+                "NOMBRE": "Palacio de la Aduana",
+                "DESCRIPCION": "Siglo XIX.La Nueva Aduana, proyectada en 1788 para sustituir a la antigua Aduana establecida en Puerta del Mar, se terminó de edificar en 1829. Se constituye como un edificio amplio destinado a atender el tráfico del puerto. De este palacio de estilo neoclásico, destaca su patio interior y sus recias escaleras con balaustrada de mármol, constando de 4 pisos. Se edificó a la manera de los palacios renacentistas italianos, con cuatro crujías en torno a un patio central porticado en sus dos primeros pisos, retranqueándose el tercero para dar cabida a una galería abierta con antepecho en forma de balaustrada calada, que de tramo en tramo posee muretes cúbicos rematados por bustos romanos. Al patio se accede a través de dos puertas principales, una situada al sur y otra al oeste.En este edificio se han asentado Reyes y príncipes; ha sido teatro de escenas violentas en las épocas revolucionarias, y ha servido de cuartel en momentos difíciles. ",
+                "DIRECCION": "PLAZA DE LA ADUANA, 1 ",
+                "URL": "www.juntadeandalucia.es/cultura/museos/mma",
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "AUTONOMICA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4dd5",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41015,
+                    36.72333991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4302,
+                "NOMBRE": "Castillo de Gibralfaro",
+                "DESCRIPCION": "Castillo edificado en el siglo XIV para albergar a las tropas y proteger a la Alcazaba, debido al uso generalizado de la artillería.Dispone de accesos limitados para personas con movilidad reducida",
+                "DIRECCION": "CAMINO GIBRALFARO, 11 ",
+                "URL": "http://www.malaga.eu",
+                "EMAIL": "sescalona@malaga.eu",
+                "CONTACTO": null,
+                "HORARIOS": "Del 1 de abril al 31 de octubre de 9:00 a 20:00 horas.\nDel 1 de noviembre al 31 de marzo de 9:00 a 18:00 horas.\nAbierto todos los días del año. ",
+                "PRECIOS": "Normal: 3,50 Euros.\nVisita conjunta Alcazaba-Gibralfaro: 5,50 Euros.\nReducido: 1,50 Euros.\nReducido Visita conjunta Alcazaba-Gibralfaro: 2,50 Euros.\nReducido con acreditación: niños de 6 a 16 años, estudiantes, mayores de 65 años, jubilados, desempleados, discapacitados mínimo 33% y usuarios tarjeta MÁLAGACARD.\nGrupos (mín.10): 2,50 Euros.\nGrupos Visita conjunta Alcazaba-Gibralfaro: 4,00 Euros.\nVisita gratuita todos los domingos a partir de las 14:00 horas y hasta su cierre.",
+                "TITULARIDAD": "MUNICIPAL",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "Si",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4dd6",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42541571,
+                    36.71928268,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4347,
+                "NOMBRE": "Puente de los Alemanes",
+                "DESCRIPCION": "Periodo: Siglo XX. El puente de Santo Domingo se conoce popularmente como de los Alemanes. Este puente de estructura metálica, que une el Pasillo de Santa Isabel con Santo Domingo, es fruto de la gratitud de la colonia alemana a la ciudad de Málaga, según indica la placa que cuelga en la pasarela de hierro peatonal: \"Alemania donó a Málaga este puente agradecida al heróico auxilio que la ciudad prestó a los náufragos de la fragata de guerra Gneisenau\". Los hechos sucedieron el 18 de diciembre de 1900. La fragata alemana Gneisenau se estrelló contra la escollera del puerto a causa del temporal. Numerosos malagueños se lanzaron al agua para socorrer a los marineros alemanes, lo cual le costó la vida a muchos de ellos. Este hecho le valió a Málaga el título de Muy Hospitalaria que figura en su escudo.",
+                "DIRECCION": "PUENTE DE SANTO DOMINGO, 1 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "MUNICIPAL",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4dd7",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41190046,
+                    36.72042121,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4340,
+                "NOMBRE": "Hospital Noble",
+                "DESCRIPCION": "Periodo: Siglo XIX. El Hospital Noble debe su existencia al legado testimonial del Dr. Joseph Noble, médico inglés que ejerció su profesión en Málaga hasta 1861, año en que falleció de cólera. Su esposa e hijas destinaron la herencia a la construcción de un hospital auxiliar donde, además de los vecinos de la Malagueta, pudieran ser atendidos los marinos de nacionalidades diversas que arribaban al puerto de Málaga. El 24 de septiembre de 1870 la Comisión Municipal de Beneficencia tomó posesión del edificio. El edificio se enmarca dentro del estilo neogótico. Se estructura con gran sencillez, en base a una nave longitudinal con pasillo central que da acceso a las distintas dependencias. El cuerpo central da paso al interior del hospital a través de un gran arco cobijado por una especie de alfiz, bajo el que puede leerse \"Hospital Noble\" en lápida de piedra. Los cuerpos laterales, que son idénticos, se destinaron a casa de socorro. En la actualidad está destinado a oficinas municipales.",
+                "DIRECCION": "PLAZA DEL GENERAL TORRIJOS, 2 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "MUNICIPAL",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4dd8",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4206757,
+                    36.71750579,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4348,
+                "NOMBRE": "Plaza de la Marina",
+                "DESCRIPCION": "Esta plaza del centro de Málaga se localiza entre la Alameda Principal y el Paseo del Parque, y constituye uno de los puntos más característicos de la ciudad. La elegancia de los numerosos edificios que la circundan, aun siendo de líneas netamente modernas, armonizan el carácter monumental del centro histórico. En el centro de la plaza una fuente anima, con sus juegos de agua, este centro neurálgico de la vida humana. Algunas palmeras y recuadros de jardines junto con los poderosos pilares que delimitan el acceso a la zona del puerto, constituye otro de los muchos elementos que caracterizan este rincón de Málaga. Su ordenación se proyectó a mediados del siglo XIX, cuando demolidas las murallas musulmanas del paño sur malagueño, abrieron la ciudad al mar (ver foto). Desde entonces ha sufrido varias remodelaciones, la última hace pocos años. Actualmente, en una esquina de la parte central de la plaza, se encuentra la Oficina Municipal de Información Turística del Ayuntamiento.",
+                "DIRECCION": "PLAZA DE LA MARINA, 11 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "MUNICIPAL",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4dd9",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41453256,
+                    36.7142432,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4343,
+                "NOMBRE": "La Farola",
+                "DESCRIPCION": "Aunque existen referencias anteriores a otros mecanismos luminosos, es en el siglo XIX cuando se construye 'la Farola' en su ubicación actual, según los planos del ingeniero Joaquín María Pery. Las obras comenzaron en el año 1816 y terminaron un año más tarde, en tiempos de Fernando VII. En 1885 el edificio fue reformado y dotado con un nuevo aparato luminoso, construyéndose un torreón de unos 4 metros sobre la torre. En 1909 fue ampliada la vivienda existente.",
+                "DIRECCION": "PASEO DE LA FAROLA, 19 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "AUTONOMICA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4dda",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42367,
+                    36.72062991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4311,
+                "NOMBRE": "Iglesia de San Juan Bautista",
+                "DESCRIPCION": "Siglos XV-XVIII.Esta fue una de las cuatro iglesias que fundaron los Reyes Católicos después de la conquista de la ciudad en 1587.En su origen tuvo una nave y otra colateral, realizada en estilo gótico, mezclado con el mudéjar y arcos apuntados sobre pilares. La torre se finalizó en 1543.Posteriormente, a mediados del siglo XVI (1554), se amplió la nave mayor y se cambiaron los arcos apuntados por arcos de medio punto.En 1620 se levantó otra nave colateral y se dieron las directrices para la futura construcción de la capilla mayor. Después del terremoto de 1680 se hizo una torre pórtico que da a la iglesia por la nave lateral derecha.",
+                "DIRECCION": "CALLE SAN JUAN, 3 ",
+                "URL": "http://www.diocesismalaga.es",
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": "Mañana de lunes a sábado de 10:30 a 13:00 h \nTardes de lunes a sábado de 17:00 a 19:00 h.\n",
+                "PRECIOS": null,
+                "TITULARIDAD": "PRIVADA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "Si",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4ddb",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42057204,
+                    36.71849391,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4331,
+                "NOMBRE": "El Cenachero",
+                "DESCRIPCION": "Periodo: S.XX. Escultura en bronce, que representa a un tipo popular malagueño, como es el vendedor de pescado. Se ubica en la Plaza de la Marina tras la Oficina Municipal de Información Turística. El monumento del Cenachero es un símbolo malagueño que encarna a un vendedor de pescado que mantiene el equilibrio entre sus dos platillos de cenachos. La obra rinde homenaje a una figura popular, que hoy en día ha desaparecido, que vendía el pescado por las calles, haciendo \"bailar\" los cestos (cenachos) que colgaban sujetos de los hombros o codos.",
+                "DIRECCION": "PLAZA DE LA MARINA, 3 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "PRIVADA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "Si",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4ddc",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42327119,
+                    36.71903976,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4319,
+                "NOMBRE": "Antiguos Almacenes de Félix Sáenz",
+                "DESCRIPCION": "PERIODO: Siglo XX\n\nHasta hace muy poco edificio sede de la casa Félix Sáenz. Edificio de la corriente Modernista, construido entre 1912-1914, obra de Guerrero Strachan. Se constituye como unas de las obras más importantes de este estilo arquitectónico que se conserva en nuestra ciudad. Se encuentra dentro de la tendencia del modernismo mediterráneo con elementos neo-barrocos. Destaca en él la tendencia a convertir los planos de la fachada en unos volúmenes y unos espacios arquitectónicamente validos.",
+                "DIRECCION": "PLAZA DE FÉLIX SÁENZ, 2 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "PRIVADA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4ddd",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41745,
+                    36.72304991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4345,
+                "NOMBRE": "Monumento a Torrijos",
+                "DESCRIPCION": "Periodo: Siglo XIX. Monumento dedicado al general Torrijos y a sus compañeros fusilados en las playas de Málaga el 11 de diciembre de 1831. En medio de la plaza y rodeado por una ancha verja se alza el marmóreo monumento erigido por el municipio a la memoria del general D. José Maria Torrijos y sus compañeros. Se trata del monumento civil urbano más importante y característico de la Málaga del siglo pasado. Se compone de la cripta, donde descansan sus restos, y de un elegante pedestal de base cuadrada y buenas proporciones, que termina por una pirámide de gran elevación, en la que están dedicadas una corona de bronce, en forma de laurel, a cada una de las cuarenta y nueve victimas de tan triste suceso. Terminando el monumento con otra corona colocada en el vértice de la pirámide.",
+                "DIRECCION": "PLAZA DE LA MERCED, 25 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "MUNICIPAL",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4dde",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41745203,
+                    36.72305022,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4351,
+                "NOMBRE": "Plaza de la Merced",
+                "DESCRIPCION": "Subiendo por la calle Alcazabilla desembocamos en la Plaza de la Merced, donde está el obelisco en homenaje a Torrijos y la Casa natal de Picasso, sede de la Fundacion Picasso. Se llamó en otros tiempos Plaza del Mercado, así como Plaza de Riego, en memoria del general liberal del siglo XIX. \nEl espacio de los primeros juegos del niño Pablo Ruiz Picasso, y quizás también el de sus primeros trazos sobre la arena, fue el de la Plaza de la Merced. Aquí, en esta transitada y romántica plaza malagueña, se conocieron sus padres, y en ella vivieron políticos como el general Riego, escultores como Fernando Ortiz, escritores como Juan José Relosillas, arquitectos como Gerónimo Cuervo o pintores como Bernardo Ferrándiz. Siendo, en el Siglo XV, mercado público, y lugar de ocio y esparcimiento para los burgueses de finales del XIX, el sonido de las campanas de la iglesia de la Merced, junto a la casa natal de Picasso, tuvo como testigos a un mosaico de tipos populares de los que el genial artista, con el paso del tiempo, se hizo eco. Paveros, vendedores de leche con sus hatos de cabras, de caramelos, biznagas y confituras, guitarreros, criadas y soldados, giraban en torno al monolito que, desde 1842, se alza en el centro arbolado de la Plaza en homenaje al general Torrijos, cuyos lemas de libertad y justicia fueron el referente de aquel niño llamado Pablo Ruiz Picasso. Y no podríamos olvidar que en este entorno, aún hoy, como entonces, vuelan las palomas como el símbolo de los paradigmas anunciados en el cenotafio del militar caído. Son las palomas que Picasso, desde su infancia, y hasta su muerte, pintó - desde las manos de su padre - como el emblema perenne y mítico de su dilatada obra.",
+                "DIRECCION": "PLAZA DE LA MERCED, 25 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "MUNICIPAL",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4ddf",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41775,
+                    36.72227991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4313,
+                "NOMBRE": "Iglesia de Santiago",
+                "DESCRIPCION": "Periodo: Siglos XV-XVIII. Situada en la calle Granada, se construyó sobre el solar de una antigua mezquita.Es la iglesia más antigua de Málaga. Su fundación data del 25 de julio de 1490. De la primitiva fachada sólo se conserva, tapiada, la puerta central de estilo mudéjar. La bella torre es también de estilo mudéjar. El interior del templo, gótico-mudéjar, presenta tres naves, aunque en sus orígenes tuvo sólo una. En esta iglesia fue bautizado Picasso en 1881.",
+                "DIRECCION": "CALLE GRANADA, 78 ",
+                "URL": "http://www.diocesismalaga.es",
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": "De Lunes a Viernes y Domingo de 9:00 a 13:00 h.\nSábados de 9:00 a 12:00 h.\nTardes de lunes a domingo de 18.00 a 20.30 h.",
+                "PRECIOS": null,
+                "TITULARIDAD": "PRIVADA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4de0",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41917995,
+                    36.720769,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4356,
+                "NOMBRE": "Palacio de Zea-Salvatierra",
+                "DESCRIPCION": "Periodo: siglo XVII. El Palacio se edificó entre los años finales del siglo XVII y comienzos del XVIII a instancias de doña María Salvatierra, viuda del capitán Blas de Zea Merino, cuyo escudo campea en la portada. En el reinado de Isabel II fue sede del Cabildo Municipal de Málaga, siendo asaltado en la revolución de 1868. Con posterioridad sirvió de Casa de Correos, uso en el que ha permanecido hasta bien entrado el siglo XX. En la actualidad es propiedad de los herederos del médico Gálvez Ginachero. El edificio es un magnífico ejemplo de la arquitectura doméstica del barroco, aunque muy transformada en su interior. En su fachada destaca la portada de piedra, desarrollada en dos plantas. Encima posee un friso de triglifos proyectado hacia fuera, para soportar el balcón principal, que posee un marco muy barroco; a ambos lados se sitúan los escudos de los fundadores de la casa. Su interior se ha organizado en torno a un patio porticado, remodelado en el siglo XIX, formado por arquerías sobre columnas de mármol con capiteles corintios. ",
+                "DIRECCION": "CALLE CÍSTER, 1 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "PRIVADA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4de1",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41791117,
+                    36.7205735,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4360,
+                "NOMBRE": "Abadía de Santa Ana",
+                "DESCRIPCION": "PERIODO: Siglo XVI. El edificio actual, según proyecto de Jerónimo Cuervo, en 1878, es el que podemos visitar. Las últimas intervenciones corresponden a los años 80 y 90 del siglo XX, donde se busca satisfacer las necesidades de ampliación de la comunidad y habilitar espacios amplios para la ubicación definitiva del Museo de Arte Sacro. La estructura del templo se compone de una nave única dividida en dos tramos cubiertos con bóveda de medio cañón con arcos fajones. La capilla mayor, de planta semicircular, se remata en una cubierta de cuarto de esfera. El coro se eleva a los pies del edificio, abriéndose la tribuna a la zona del presbiterio. En el exterior destaca la portada de piedra blanca, de líneas clásicas, con arco de medio punto flanqueado por pilastras toscanas cajeadas. Centra la fachada una hornacina con la imagen de Santa Ana, original del S.XVIII.",
+                "DIRECCION": "CALLE CÍSTER, 13 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "MUNICIPAL",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4de2",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41715,
+                    36.72061991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4301,
+                "NOMBRE": "Alcazaba",
+                "DESCRIPCION": "Palacio fortaleza de los gobernantes musulmanes de la ciudad.\nFue construido en su mayor parte en el siglo XI y es uno de los monumentos emblemáticos de la capital malagueña. Dispone de accesos limitados para personas con movilidad reducida",
+                "DIRECCION": "CALLE ALCAZABILLA, 2 ",
+                "URL": "http://www.malaga.eu",
+                "EMAIL": "sescalona@malaga.eu",
+                "CONTACTO": null,
+                "HORARIOS": "Del 1 de abril al 31 de octubre de 9:00 a 20:00 horas.\nDel 1 de noviembre al 31 de marzo de 9:00 a 18:00 horas.\nAbierto todos los días del año. ",
+                "PRECIOS": "Normal: 3,50 Euros\nVisita conjunta Alcazaba-Gibralfaro: 5,50 Euros\nReducido: 1,50 Euros.\nReducido Visita conjunta Alcazaba-Gibralfaro: 2,50 Euros.\nReducido con acreditación: niños de 6 a 16 años, estudiantes, mayores de 65 años, jubilados, desempleados, discapacitados mínimo 33% y usuarios tarjeta MÁLAGACARD\nGrupos (mín.10): 2,50 Euros.\nGrupos Visita conjunta Alcazaba-Gibralfaro: 4,00 Euros.\nVisita gratuita todos los domingos a partir de las 14:00 horas y hasta su cierre.",
+                "TITULARIDAD": "MUNICIPAL",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "Si",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4de3",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4072,
+                    36.72113991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4327,
+                "NOMBRE": "Cementerio Inglés",
+                "DESCRIPCION": "Periodo: Siglo XIX.\n\nPrimer cementerio protestante que se estableció en España, viene a albergar importantes personajes de la vida económica de la ciudad. La creación del Cementerio Inglés o Protestante, se proyectó tras la inauguración del de San Miguel con el objeto de que se acogieran en él las inhumaciones de los extranjeros (de religión protestante) que falleciesen en Málaga. Por Real Orden de 11 de abril de 1838, se confirmó la cesión de terreno al este de la ciudad en el Paseo de Reding, hecha a don Guillermo Marck, Cónsul de S.M. Británica. ",
+                "DIRECCION": "AVENIDA DE PRÍES, 1 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": "Lunes a viernes: De 09:00 a 15:00 h.\nSábados a domingos: De 10:30 a 15:00 h.\nLa taquilla permanecerá abierta hasta media hora antes del cierre.\n",
+                "PRECIOS": "General: 4 euros.\nReducida: Estudiantes menores de 26 años, pensionistas y residentes en Málaga: 3 euros \nGrupos mayores de 15 personas: 2,50 euros \nMenores de 12 años (acompañados), miembros de la Iglesia de St. George, miembros y socios de la Fundación y familiares de los difuntos del Cementerio inglés: gratis.\nDe lunes a viernes: la entrada será gratuita de 9:00 a 10:00 h. con motivo de la catalogación como BIC.\n",
+                "TITULARIDAD": "MUNICIPAL",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4de4",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41716,
+                    36.72139991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4305,
+                "NOMBRE": "Teatro Romano",
+                "DESCRIPCION": "Periodo: Siglo I d.c.El teatro romano se encuentra ubicado al pie de la Alcazaba. Fue descubierto en 1951 cuando estaba llevando a cabo la realización de un jardín que se iba a encontrar en la entrada de la Casa de la Cultura. \nEl teatro se construyó en la época de Augusto y fue utilizado hasta el S.III; después fue utilizado como cantera de materiales por los árabes para la restructuración de la Alcazaba, pudiéndose encontrar dentro de ésta capiteles y fustes de columnas romanas. En la actualidad queda al descubierto la galería de entrada al proscenium (escenario) que estaba cubierto por una bóveda de cañón, parte de la orchesta de unos 15 m, la cávea con 3 gradas y de 31 m de radio por 16 m de alto y el vomitorium o puertas de acceso a las gradas.",
+                "DIRECCION": "CALLE ALCAZABILLA, 8 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": "Lunes cerrado. \nDe martes a sábado: de 10:00 a 18:00 h. \nDomingos y festivos (y lunes vísperas de festivos) de 10:00 a 16:00 h.\nCerrado 24 y 25 y 31 de diciembre,1 de enero y 1 de mayo.",
+                "PRECIOS": "Gratis",
+                "TITULARIDAD": "AUTONOMICA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4de5",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42405946,
+                    36.75775591,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4354,
+                "NOMBRE": "Jardines de la Finca San José",
+                "DESCRIPCION": "La Finca San José fue construida durante el primer tercio del siglo XIX por el Sr. Manuel Agustín Heredia y su esposa, la Sra. doña Isabel Livermore y Salas, la familia de los Heredias, y destinada a ser la residencia de recreo de la familia. Los jardines de la Finca San José son de estilo romántico y paisajista y reunen gran variedad de especies que debieron plantarse durante la segunda mitad del siglo XIX. Esta pluralidad de especies se vio agraciada por el hecho de ser la familia Heredia propietaria de una poderosa flota naviera, en cuyos barcos probablemente viajaron muchos especímenes que hoy podemos admirar. En 1846 la casa Heredia contaba con 18 barcos que mantenían comercio con diferentes puertos del Caribe, América del Norte y del Sur, Filipinas, China y otros puertos del Pacífico. San José, como se ha comentado anteriormente, estuvo unida a la finca La Concepción y como consecuencia de ello también presenta una analogía en lo que a contenido botánico se refiere con esta hacienda en particular y con El Parque, que fue creado con posterioridad. \nParece ser que la finca dejó de pertenecer a la familia de los Heredia a partir de 1923 para convertirse en un lugar de descanso para discapacitados mentales dirigida por los Hermanos de San Juan de Dios. Sus jardines, pese a estar considerados asimismo de venerable notabilidad, toman un segundo plano debido al lugar preferente que ocupa su compañera La Concepción. Sin embargo, presenta especies muy substanciales, algunas de ellas únicas y raras, en la flora ornamental de Málaga. Destacan para los entendidos una magnífica Araucaria columnaris, un ejemplar de Beaucarnea recurvata, uno de Encephalartos villosus, otro de Schottia latifolia varios ejemplares de Pittosporum undulatum y Nandina domestica, una Erythrina caffra de porte arbóreo y numerosas especies de Arecáceas. La finca se encuentra a la salida norte de la ciudad de Málaga, quedando a la derecha de la carretera nacional 321, sentido Málaga a Madrid.",
+                "DIRECCION": "CAMINO DE CASABERMEJA, 126 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "AUTONOMICA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4de6",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41894,
+                    36.72124991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4330,
+                "NOMBRE": "Antiguo Convento de los Padres Agustinos.",
+                "DESCRIPCION": "El Museo Municipal estuvo abierto en la segunda planta del edificio que, desde 1869, albergaba al ayuntamiento de la ciudad, en calle San Agustín. Este edificio, antigua sede del seminario de San Juan de Dios, del convento de los padres agustinos y de la Facultad de Filosofía y Letras de la Universidad de Málaga, lo conoció Picasso porque desde 1879, en él estuvo trabajando su padre como conservador de los cuadros que la casa consistorial exponía al público por entonces, y en numerosas ocasiones Picasso recordó el taller donde su padre pasaba las horas que como profesor de Dibujo, la Escuela le permitía: \"El taller aquel era una pieza como cualquier otra, sin condiciones especiales: un poco más sucia, sí acaso, que la que tenia en casa; pero allí estaba tranquilo\", rememoraba el maestro. Aunque el Museo se hallaba casi siempre cerrado y fue un empleo inseguro, debido al déficit de las arcas municipales, fue en este lugar donde don José Ruiz pintó muchos de sus célebres palomares y en donde realizó las copias de cuadros de otros artistas amigos. Precisamente, uno de los primeros óleos de su hijo Pablo Vista del puerto de Málaga (h.1890) fue copiado del que realizara su padre, éste a su vez reproducido del que pintara en 1878 el marinista Emilio Ocón. El edificio está actualmente cerrado.\n",
+                "DIRECCION": "CALLE SAN AGUSTÍN, 3 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "MUNICIPAL",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4de7",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41898232,
+                    36.72129508,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4328,
+                "NOMBRE": "Iglesia del Convento de San Agustín",
+                "DESCRIPCION": "Periodo: Siglo XVI.\n\nEl convento, debido a la especial dedicación de la Orden de S.Agustín a la enseñanza, está estructurado en tres partes bien diferenciadas: iglesia por un lado y colegio y vivienda de los monjes rodeando a un patio claustral por otro. Aunque el convento fuera fundado a finales del Siglo XVI - principios del XVII, la actual fábrica de la Iglesia corresponde al siglo siguiente (XVIII), sufriendo ésta grandes reformas a final de este último periodo.\n\nLa iglesia tiene tres naves, cubriéndose la central con bóveda de medio cañón con fajones y lunetos resaltados por molduras de suaves curvas. En el alzado destacan la alternancia de las luces de los arcos formeros, coronados con un entablamento adornado con una línea seguida de ovas y perlas, que se apoya sobre pilastras coríntias acanaladas, atribuibles, según diversos autores, al estilo de José Martín de Aldehuela.",
+                "DIRECCION": "CALLE SAN AGUSTÍN, 7 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "PRIVADA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4de8",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41533327,
+                    36.72076474,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4342,
+                "NOMBRE": "Jardines de Puerta Oscura",
+                "DESCRIPCION": "En la Revista Nacional de Arquitectura (1943) se hace la siguiente alusión a los jardines de Puerta Oscura: \"Paralelamente a la reconstrucción de la Alcazaba, y como complemento de la misma, Guerrero Strachan proyecta la urbanización de los alrededores, entre ellos los actuales jardines de Puerta Oscura y los de ampliación del Parque. En ambos trata de resumir las características del jardín meridional con los medios propios de la localidad. El primero de ellos se resuelve de forma escalonada, según la pendiente de la colina de la Alcazaba. Destaca el colorido de las diversas especies vegetales, en hábil combinación con los elementos arquitéctonicos -pavimentos, escalinatas, fuentes, etc.-, todos ellos enmarcados en trazas geométricas de tradicional composición decorativa\". Estos agradables jardines, que ocupan la ladera sur de la estribación de Gibralfaro sobre la que se asienta la Alcazaba, fueron diseñados por Guerrero Strachan con indudable acierto, transformando una áspera vertiente en sucesión de terrazas, paseos y pequeñas glorietas que sorprenden especialmente a los visitantes de la ciudad. Estos jardines por otra parte enmarcan las murallas de la Alcazaba, por lo que su trazado había que armonizar con las mismas; han de valorarse además como parte del excepcional conjunto ajardinado del que forma parte, junto con los de Pedro Luis Alonso, el Parque, la casa del jardinero-jefe y la Aduana.",
+                "DIRECCION": "JARDINES DE PUERTA OSCURA, 1 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "MUNICIPAL",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4de9",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42108064,
+                    36.71776824,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4344,
+                "NOMBRE": "Monumento a Larios",
+                "DESCRIPCION": "Periodo: Siglo XIX. Monumento dedicado a Manuel Domingo Larios y Larios, segundo Marqués de Larios. Su obra de mayor protección social y urbana para Málaga sería la construcción de la calle que lleva su nombre, razón por la cual el Ayuntamiento promovió la construcción de un monumento en su honor, localizado desde su inauguración en 1899 en la confluencia de los ejes de la Alameda y calle Larios. El monumento, realizado por Mariano Benlliure, está diseñado en bronce y se asienta sobre un pedestal de mármol en el que se muestra una serie de relieves. Presenta al Marqués de Larios de pie, sobre un gran pedestal y flanqueado por las figuras de un hombre que sostiene un pico y un azadón sobre el hombro, que representa al trabajo. Y una mujer semidesnuda presenta en ofrenda un niño al Marqués de Larios, la cual, se identifica con la ciudad de Málaga agradecida, como indica la placa colocada en el propio monumento.",
+                "DIRECCION": "ALAMEDA PRINCIPAL, 1 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "MUNICIPAL",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4dea",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4185,
+                    36.73266991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4324,
+                "NOMBRE": "Cementerio de San Miguel",
+                "DESCRIPCION": "El Cementerio Histórico de San Miguel esta situado en el centro de la ciudad, en la barriada de Capuchinos, se construyó según diseño del arquitecto  Mitjana siendo  bendecido en 1810 y  terminanda su construcción en 1829 .De estilo neoclásico es uno de los cementerios monumentales mas importantes de España.\n\nAllí reposan en magníficos panteones los personajes mas ilustres de la burguesía malagueña del XIX que jugaron un  papel  esencial en el desarrollo de la ciudad.  En el Cementerio de San Miguel también dejaron su huella los artistas, técnicos y artesanos  más relevantes de aquella Málaga, como Jerónimo Cuervo, Manuel Rivera Valentín, José Trigueros o Guerrero Strachan, Adrián Risueño, o Gutiérrez de León, entre otros.\nAllí están enterrados muchos personajes significativos de la historia de la ciudad como, Salvador Rueda, José Denis Belgrano, José Moreno Carbonero, Salvador González Anaya ,Eduardo Ocón, Rafael Salinas, etc. \n En la actualidad, continua el proceso de restauración y conservación  iniciado hace algun tiempo  para mantener el recinto monumental como testigo de la historia teniendo los malagueños la posibilidad de seguir utilizándolo para la reinhumacion de cenizas.",
+                "DIRECCION": "PLAZA DEL PATROCINIO, 3 ",
+                "URL": "http://cementeriosanmiguel.malaga.eu",
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": "10:00 a 18:00 h. Todos los días",
+                "PRECIOS": null,
+                "TITULARIDAD": "MUNICIPAL",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "Si",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4deb",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42252,
+                    36.72328991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4312,
+                "NOMBRE": "Iglesia de San Julián",
+                "DESCRIPCION": "Periodo: Siglo XVIII.Junto a calle Carretería, se encuentra la Iglesia-Hospital de San Julián. Esta fundación tuvo su origen en el desaparecido Hospital de la Caridad, dotado por los Reyes Católicos con el nombre de Hospital del Rey. Su finalidad era recoger pobres y desamparados, además de curar emfermos.En 1680 el Hospital pasó con sus bienes a la orden de San Juan de Dios, que fundaron la Hermandad de la Santa Caridad de Ntro. Sr. Jesucristo y Hospital de San Julián para hospedaje de pobres y mendigos y asistir y enterrar a los ajusticiados. En 1821, la Junta municipal de Beneficiencia, clausuró la iglesia y dispersó la Hermandad. En 1924, lo cedió al Ayuntamiento para la atención de los pobres y heridos de la guerra de Africa y fue clausurado en 1931. \nEn 1972 el Obispado de Málaga recuperó su propiedad cediéndolo a la Agrupación de Cofradias de Semana Santa para instalar en él la Sede Social de la Agrupación, el Archivo Histórico y el Museo de las Cofradias de Málaga. Estas actuaciónes han posibilitado la recuperación del edificio, volviendo a abrir la iglesia en 1988.",
+                "DIRECCION": "CALLE NOSQUERA, 15 ",
+                "URL": "http://www.agrupaciondecofradias.com",
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": "Mañana de Lunes a Viernes: 10:00 a 14:00 h. \nTardes de Lunes a Viernes: 16:00 a 18:00 h. \nCerrado Sábados y Domingos.",
+                "PRECIOS": null,
+                "TITULARIDAD": "PRIVADA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4dec",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42342145,
+                    36.71770077,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4329,
+                "NOMBRE": "Delegación de la Junta de Andalucía",
+                "DESCRIPCION": "Es un hermoso edificio de finales del siglo XVIII, remodelado en el XIX. En su diseño este edificio responde a la influencia del Neoclasicismo italianizante, que se introdujo en Málaga a través de la Aduana. Estas semejanzas se aprecian en la planta baja, que aparece con un almohadillado florentino. Presenta balcones corridos, coronado con frontones triangulares y curvos. En el tercer cuerpo los balcones son sencillos; del centro emerge una torre poligonal. La portada labrada en mármol, es adintelada, abierta entre hermosas pilastras cajeadas. En su interior, tras el zaguán, se encuentra un patio porticado, cuyo lado principal se compone de columnas toscanas de zapatas que sostienen las grandes vigas de madera y los soportes de las galerías superiores y entre ellas arranca una escalera, también del siglo XIX, como el conjunto del patio. \n\n",
+                "DIRECCION": "ALAMEDA PRINCIPAL, 18 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": "9:00 a 14:00 h. lunes a viernes",
+                "PRECIOS": null,
+                "TITULARIDAD": "AUTONOMICA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "Si",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4ded",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42090256,
+                    36.7249568,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4333,
+                "NOMBRE": "Antiguo Instituto de Segunda Enseñanza",
+                "DESCRIPCION": "Poco antes de abandonar Málaga, en octubre de 1891, Picasso fue examinado en el Instituto de Segunda Enseñanza, situado en el número 1 de calle Gaona. Antiguo convento de los filipenses, en 1846 abrió sus puertas como centro educativo, y, tres años después, fue instalada en este emplazamiento la Escuela de Náutica, de gran arraigo en la ciudad. Picasso refirió en varias, ocasiones el examen que tuvo que sufrir para acceder al Instituto de La Coruña, documento que aún se conserva junto a la instancia y pago de derechos de Latín y Castellano y Geografía y que estaba constituido por un breve dictado y una división, rubricada por Picasso a finales de junio de este año, siendo su director don Ramón Ibáñez Ibáñez, quien ejerció, como presidente del Tribunal que aprobó, en este centro, al joven alumno. Junto a Picasso, otras distinguidas personalidades - entre ellas el Premio Nobel Severo Ochoa - han pasado por las aulas de este edificio del siglo XVIII que conserva, aún hoy todo el encanto de su patio central balconado y coronado por medallones que recuerdan, en sus sentencias, la filosofía religiosa que imperó hasta, la apertura del edificio como centro docente.\n",
+                "DIRECCION": "CALLE GAONA, 7 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "AUTONOMICA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "Si",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4dee",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41821193,
+                    36.72192962,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4359,
+                "NOMBRE": "Palacio del Marqués de la Sonora",
+                "DESCRIPCION": "Periodo: Siglo XVIII. Es una de las pocas mansiones antiguas que se conservan en calle Granada. El edificio fue mandado construir en 1789 por Félix Solacio, asentista de la Fábrica de Naipes de Macharaviaya, aunque con posterioridad pasó a ser propiedad de la familia Gálvez. La fachada se constituyó en la obra cumbre de la arquitectura doméstica de su época y de otras muchas, que tomaron de ella el diseño de vanos, cierres y decoraciones de hierro forjado, portadas, áticos, etc. Consta de tres pisos. La portada es de piedra y está dotada de elementos como pilastras cajeadas, modillones y entablamento, muy movido con friso de guirnaldas y florones. Encima se coloca un ático con el escudo de armas de los Gálvez en el centro. Tras la portada se puede observar el zaguán, al fondo del cual surge la escalera, que cuenta también con una bella portada de mármol, que disminuye de volumen hacia arriba. Esta está compuesta por dos columnas toscanas, sobre las que van dos jarrones, a partir de los cuales el entablamento se remete, conformando frontones curvos y rotos en varios gradientes y finalizando en un ático curvo, del que sobresalen hojas de palma.",
+                "DIRECCION": "CALLE GRANADA, 60 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "MUNICIPAL",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4def",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4146,
+                    36.72049991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4341,
+                "NOMBRE": "Jardines de Pedro Luis Alonso",
+                "DESCRIPCION": "Se trata de las más pura muestra de jardín mediterráneo o formalista en Málaga. El diseño es obra del arquitecto Guerrero Strachan, autor de la mayoría de las recreaciones de jardines historicistas de la ciudad. Este jardín, que lleva el nombre del primer alcalde de la postguerra, fue trazado en 1945 siguiendo los cánones del jardín latino; en él aparecen características tanto de jardines hispanomusulmanes como afrancesados:  arriates con setos bajos para proporcionar color y simetría, naranjos que dan sombra, color y aroma; los estanques contrastan y prestan sensación de frescor y sonidos con los surtidores; la pajarera y el estanque grande dan cobijo a algunas aves que distraen con el colorido, canto y movimiento.\nEste diseño constituye, además, una ingeniosa transición entre el Parque y Puerta Oscura; el jardín armoniza igualmente tanto con los muros de la Alcazaba y Gibralfaro como con el Ayuntamiento. En pocos lugares de Málaga se muestra tan claramente como aquí el binomio arquitectónico-botánico.",
+                "DIRECCION": "CALLE ROMA, 1 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "MUNICIPAL",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4df0",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41447338,
+                    36.72586171,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4322,
+                "NOMBRE": "Capilla del Agua",
+                "DESCRIPCION": "Periodo: Siglo XIX.\n\nLa capilla del Agua o del Rescate, por venerarse actualmente en ella las imágenes procesionales del Cristo del Rescate y de la Virgen de Gracia, es una pequeña capilla de origen procesional, de 1800.\n\nLa capilla de estilo barroco, y con aire muy popular, encarna el tipo de capilla callejera adosada. Su espacio interior, es de planta poligonal irregular, cubierto de bóvedas semiesférica decorada con yeserías. La fachada, tiene un gran arco de medio punto, a través del cual se muestran las imágenes a la veneración popular. El conjunto se remata exteriormente con un doble ático y un cupulín hexagonal con adornos de cerámica Las imágenes del interior son esculturas de vestir, en madera policromada, realizadas en la década de los cincuenta por el escultor Castillo Lastrucci, pues las primitivas desaparecieron en la Guerra Civíl. Enfrente, en otro edificio se encuentra la Casa-Hermandad de esta Cofradía, donde guardan los tronos para procesionar a estas imágenes.",
+                "DIRECCION": "CALLE AGUA, 1 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "PRIVADA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "Si",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4df1",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42002,
+                    36.72030991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4304,
+                "NOMBRE": "Catedral y Museo Catedralicio",
+                "DESCRIPCION": "Siglos XVI al XVIII. La Catedral de la Encarnación se levanta en el lugar que ocupara la Mezquita-Aljama, o mezquita mayor de la ciudad, durante los ocho siglos de dominio musulmán. Iniciada su construcción en la primera mitad del siglo XVI y continuada a lo largo del XVII y XVIII, es obra inacabada a la que falta el remate de la fachada principal y completar la torre sur; este hecho ha venido, con el tiempo, a dotar al templo de un aspecto singular que lo caracteriza y es el origen de su nombre popular, \"La Manquita\". De su interior cabe destacar la obra escultórica del coro, con 42 tallas realizadas por Pedro de Mena, y los dos órganos, magníficos instrumentos musicales -cuentan con más de 4.000 tubos-, raros ejemplares del siglo XVIII que aún se conservan en buen uso. Alberga el Museo Catedralicio.",
+                "DIRECCION": "CALLE MOLINA LARIO, 9 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": "Invierno: \n10:00 a 18:30 h. de lunes a viernes,\nSábados: 10:00 a 18:30 h.\nDom. y fest.: 14:00 a 18:30 h.\nVerano: \n10:00 a 21:00 h.\nSábados: 10:00 a 18:30 h.\nDom.y fest.: 14:00 a 18:30 h.",
+                "PRECIOS": "Catedral + Ars Málaga:\nGeneral: 6 euros\nGrupos: 4 euros \nMayores 65: 5,50 euros \nNiños de 13 a 18 y Univ. hasta 25: 3 euros \nGratuita: Niños hasta 12 años, paxs con discapacidades diferentes y malagueños \nCatedral + Ars Málaga + Cubiertas: \nGeneral: 10 euros \nReducida: 9 euros \nGrupos: 6 euros \nRed. jov. 7 euros \nC.Málaga: 3 euros\nCubiertas: \n6 euros(general),\n3 euros: malagueño\nRed. y adic: 4 euros",
+                "TITULARIDAD": "PRIVADA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "Si",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4df2",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41788127,
+                    36.71986379,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4355,
+                "NOMBRE": "Palacio de Villalcázar",
+                "DESCRIPCION": "Periodo: Siglo XVIII.La actual sede de la Cámara de Comercio ha sido conocida durante más de dos siglos como Palacio de Villalcázar, a pesar de que fuera construido por el Conde de Buenavista. Después de la muerte del Conde estas construcciones fueron heredadas por el Conde de Villalcázar. Es difícil apreciar su trazado original, ya que es un edificio que ha sufrido numerosas restauraciones, la ultima de las cuales se ha debido a su adaptación como sede de la Cámara de Comercio. En su interior destacan las enormes columnas de mármol de su patio portificado y en el exterior la portada de piedra, el balcón corrido de la planta principal y la torre mirador en un ángulo, desde donde sus propietarios podían divisar el mar y el puerto por encima de la muralla. Tras el derribo de este sector de la muralla de Málaga y la construcción de la Aduana, la fachada adquiere mayor empaque al poder ser contemplada desde mayor distancia.",
+                "DIRECCION": "CALLE CORTINA DEL MUELLE, 23 ",
+                "URL": "http://www.camaramalaga.com",
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "PRIVADA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4df3",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42087,
+                    36.71967991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4334,
+                "NOMBRE": "Escultura Points of View",
+                "DESCRIPCION": "La escultura 'Points of View', del británico Tony Cragg, se exhibe en la ciudad de Málaga, en la confluencia de las calles Larios y Strachan, desde el 2 de agosto de 2005. La obra, realizada en bronce, es la primera pieza del artista que se instala de forma permanente en un espacio público en España. La ubicación de esta obra se enmarca en el programa municipal de escultura Málaga, Ciudad Museo, que comenzó en 2002 con la colocación de diversas obras diseñadas específicamente para este proyecto por artistas como Miquel Navarro, Chema Alvargonzález y Jaume Plensa. El Centro de Arte Contemporáneo ya acogió una exposición de Tony Cragg en 2003, 'Signs of Life'. Además, el CAC Málaga exhibe en su selección de la colección permanente, Paisaje Humano, la obra del artista británico Sin título (Messengers in wood, 2003). Las obras de Tony Cragg se caracterizan por sus formas aerodinámicas y siluetas llenas de vitalidad. Sus piezas, la mayoría de gran tamaño, reflejan la combinación de su destreza en la escultura y de sus conocimientos científicos como técnico de laboratorio. Los materiales que utiliza para la realización de sus trabajos tienen distintos orígenes, desde objetos encontrados en lugares como playas o ciudades hasta fragmentos de objetos de plástico.",
+                "DIRECCION": "CALLE STRACHAN, 7 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": "Exposición pública 24 horas 365 días del año.",
+                "PRECIOS": null,
+                "TITULARIDAD": "MUNICIPAL",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "Si",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4df4",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.44706,
+                    36.82906991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4325,
+                "NOMBRE": "Acueducto de San Telmo",
+                "DESCRIPCION": "Periodo: Siglo XVIII.\r\n\r\nSituado sobre el arroyo de Humaina, es una obra colosal del sistema hidráulico. Está construido en ladrillo y posee 75m de longitud, 15 de altura y 4 ojos de 7m de diámetro, siendo su espesor de 2,5m en la parte superior y en 5,8 en la inferior. Las pilas tienen un grueso de 3, 34m. Los pilares son de planta cuadrada, disponiendo sus tamajares en forma de proa (agujas arriba) y circulares (agujas abajo). El paso de los tajamares hasta las pilastras del petril se consigue con un pequeño contrafuerte, rematándose por una sencilla moldura que actúa a modo de impostra para el arranque de arcos. \r\n\r\nEste acueducto fue construido para mejorar el suministro de agua de la ciudad ya que incluso para la época, Málaga carecía de las más elementales medidas higiénico sanitarias, aunque ya desde la época romana se conocen datos con intentos, propuestas y proyectos encaminados a potenciar y mejorar el suministro de la ciudad.",
+                "DIRECCION": "DISEMINADO VALLADARES, 10 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "PRIVADA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4df5",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41918092,
+                    36.71878557,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4336,
+                "NOMBRE": "Parque de Málaga",
+                "DESCRIPCION": "Limitado por la Alameda Principal y el Paseo de España que corre paralelo al Muelle de Guadiaro, el parque se extiende desde la Plaza del General Torrijos hasta la Plaza de la Marina. Consta de tres paseos de 800 metros de longitud y diez de anchura uno en el lado Norte y dos en la banda Sur del gran paseo central para vehículos, de 25 metros de ancho y el mismo eje de la Alameda principal, de la que es continuación. La superficie total es de más de 30.000 metros cuadrados, si se unen la rosaleda rodeada de naranjos y de cipreses, junto a la Casa Consistorial y los llamados Jardines de Puerta Oscura.\n",
+                "DIRECCION": "PASEO DEL PARQUE, 1 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "MUNICIPAL",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "Si",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4df6",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.40930819,
+                    36.72100319,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4323,
+                "NOMBRE": "Casas de Félix Sáenz",
+                "DESCRIPCION": "Dos bloques de casas realmente espectaculares conocidas como Casas de Félix Sáenz. Fueron mandadas a construir por este comerciante malagueño para el alquiler y como tales se conservan. Ambos bloques datan de 1922, y se debe a la imaginación de Fernando Guerrero Strachan. Son edificios estructurados en tres pisos, más bajo y torres en los que se articulan las fachadas con entrantes y salientes que se cubren con vertientes de diferentes alturas, originando pabellones de aleros volados, terrazas, miradores y acristalamientos. Todo ello proporciona unos edificios de gran riqueza cromática, acentuada a primeras horas de la mañana y media tarde. Muy amante de las reminiscencias históricas, Guerrero Strachan se acoge en las Casas de Félix Sáenz al Neorrenacimiento en la composición general y en los detalles decorativos de una de ellas, enlazando con el neomudéjar en el empleo de los materiales y aleros volados de la otra. \n",
+                "DIRECCION": "PASEO DE REDING, 37 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "PRIVADA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4df7",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4202,
+                    36.71997991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4352,
+                "NOMBRE": "Plaza del Obispo",
+                "DESCRIPCION": "Se abre delante de la fachada principal del Palacio Episcopal, al lado de la Catedral. Es una reducida plaza de gran interés monumental, caracterizada pos sus pequeñas dimensiones, encerrada por dos grandes edificios religiosos y con una bella fuente de 1785 de la que surtían las aguas del acueducto de San Telmo. ",
+                "DIRECCION": "PLAZA DEL OBISPO, 1 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "MUNICIPAL",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4df8",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.40819723,
+                    36.72076246,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4350,
+                "NOMBRE": "Palacio de Miramar",
+                "DESCRIPCION": "PERIODO Siglo XX. DESCRIPCIÓN: Antiguo hotel Miramar y anterior hotel Príncipe de Asturias, es obra del arquitecto Guerrero Strachan, construido entre los años 1921-1926, fue remodelado en 1987 para albergar el Palacio de Justicia. Destaca, como en otras obras de este arquitecto, la individualización de tejados a distinto nivel y sobre todo, el juego de policromía de su fachada combinando los paramentos de color ocre con el beige de las pilastras almohadilladas y los refuerzos angulares, la pintura del pabellón, la cerámica del barandal de la terraza y los aleros, los jarrones, etc. La fachada del mar, con sus torres abiertas, el colorismo de los tejados y aleros y el movido diseño de los huecos, ofrece una arquitectura alegre más adecuada a la primitiva función de hotel que a la que ejerce actualmente. En el interior destaca el patio, cuadrada con arquerías de medio punto sobre columnas de capitel neoplateresco y decoración del mismo estilo en el cuerpo superior. En el lado orientado al mar, se encuentra el antiguo salón de Baile, con grandes ventanales hacia el jardín, y ornato de yeserías en la cubierta.",
+                "DIRECCION": "PASEO DE REDING, 22 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "AUTONOMICA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4df9",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41072,
+                    36.72077991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4308,
+                "NOMBRE": "Plaza de Toros  \"La Malagueta\".",
+                "DESCRIPCION": "Construida en el año 1874 por Joaquín Rucoba, en estilo neomudéjar, en terrenos de La Malagueta, tiene una capacidad para 14.000 personas. La inauguración tuvo lugar el 11 de junio de 1876. En sus dependencias se encuentra ubicado el Museo Taurino que ofrece al visitante un amplio recorrido por el mundo de los toros.",
+                "DIRECCION": "PASEO DE REDING, 8 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": "10:00 a 14:00 h. Lunes a viernes.\nSábados y domingos cerrados",
+                "PRECIOS": "Adultos 1.80 euros, niños gratis hasta los 7 años.",
+                "TITULARIDAD": "AUTONOMICA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "Si",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4dfa",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42189436,
+                    36.72087878,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4346,
+                "NOMBRE": "Plaza de la Constitución",
+                "DESCRIPCION": "La plaza Mayor o de las cuatro calles, como era llamada por los nazaríes, pasó a llamarse de la Constitución en 1812. La Plaza de la Constitución ha sido el corazón del centro histórico de la ciudad desde los tiempos de los cristianos. Así, este espacio abierto ha sido desde finales del siglo XV hasta nuestros días el espacio público y político de la ciudad por excelencia, ya que puede decirse que todos los grandes acontecimientos políticos ocurridos en la España moderna y contemporánea han tenido lugar en este espacio abierto. En ella estuvo la Casa Capitular o Ayuntamiento hasta 1869; también estuvieron otros edificios como la Casa del Corregidor, la cárcel, la Audiencia y el Colegio de los  Jesuitas.",
+                "DIRECCION": "PLAZA DE LA CONSTITUCIÓN, 1 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "MUNICIPAL",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4dfb",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4202,
+                    36.72024991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4306,
+                "NOMBRE": "Palacio Episcopal.  Sala de Exposiciones",
+                "DESCRIPCION": "Periodo: Siglo XVI - XVIII.Se conoce con este nombre a un conjunto de edificios que delimitan una amplia manzana comprendida entre las calles de Santa María, Molina Lario, Salinas, Fresca y Plaza del Obispo.Se trata de un conglomerado de construcciones diversas, de distintas formas y estilos, que han experimentado innumerables transformaciones a lo largo del tiempo en función de las necesidades de uso. Exposición permanente de arte africano y contemporáneo. Ars Málaga.",
+                "DIRECCION": "PLAZA DEL OBISPO, 6 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": "De 10:30 a 20:30 h. de martes a domingo.",
+                "PRECIOS": "General: 4 euros \nVisitas guiadas: 6 euros \nResidentes de Málaga y provincia: 3 euros\nNiños menores de 12 años: Gratis \nEstudiantes menores de 26 años, desempledos, mayores de 65 años, pensionistas y discapacitados: 2 euros. \nGrupos (más de 20 pax), reserva anticipada, \ncon visita guiada: 2 euros.\nEntrada general combinada: (Ars Málaga + Catedral): 7 euros\nEntrada reducida combinada: (Ars Málaga + Catedral): 5 euros (grupos + 30 personas).",
+                "TITULARIDAD": "PRIVADA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4dfc",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42229207,
+                    36.72130162,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4357,
+                "NOMBRE": "Sociedad Económica",
+                "DESCRIPCION": "El edificio creado en 1785, viene a ser ocupado primeramente por el Consulado del Mar, donde más tarde se establece el Colegio de los Jesuitas en parte de sus dependencias. Es un edificio que se convierte en ejemplo típico de la arquitectura doméstica del siglo XVIII, con balcones corridos en sus pisos superiores donde se abren huecos regulares y patio central rodeado de galerías voladas. El componente más significativo lo constituye la majestuosa portada de mármol veteado, que representa una alegoría del Montepío de Socorro a los Cosecheros del Obispo de Málaga (vino, aguardiente, pasas, higos, almendras y aceite) y su función benéfica para con la ciudad mediante una escena donde los citados productos están representados por el olivo, la higuera, el almendro y la vid. En este edificio, que fue declarado Monumento Arquitectónico Artístico en 1932, se instalaron otras muchas instituciones: la Sociedad Económica de Amigos del País en 1790, la Real Academia de Bellas Artes de San Telmo en 1850, la escuela de Bellas Artes, el incipiente Museo de Bellas Artes, colegios y otros. Aunque desde 1961 hasta nuestros días, es la Sociedad Económica la que tiene su sede en este edificio. \n\n",
+                "DIRECCION": "PLAZA DE LA CONSTITUCIÓN, 7 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "PRIVADA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4dfd",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42216,
+                    36.72086991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4337,
+                "NOMBRE": "Antigua Escuela de Bellas Artes",
+                "DESCRIPCION": "Aunque Picasso no estudiara, por su edad, en la malagueña Escuela de Bellas Artes de San Telmo, sí tuvo la oportunidad de ver, desde muy niño, el ambiente que se respiraba en aquellas aulas donde los jóvenes se iniciaban en el arte de color, el carbón y la línea. Siendo su padre profesor de Dibujo Líneal y Adorno de la Escuela malagueña, ésta, situada en la Plaza de la Constitución a la entrada de calle Compañía, fue el primer lugar donde Pablo Picasso entró en contacto con los modelos clásicos de yeso que, pocos años después, en La Coruña y Barcelona, copiara como obligada asignatura para sus estudios. La cantera de pintores que pasaron por las aulas de San Telmo fueron también maestros y amigos de José Ruiz Blasco, y, por consiguiente, muchos de ellos, de un incipiente Picasso, de los que tomó éste claro ejemplo como diestro alumno para sus obras posteriores. Bernardo Ferrándiz, Muñoz Degrain, Martínez de la Vega o Moreno Carbonero hicieron, del arte del último tercio del XIX, el siglo de Oro de la pintura malagueña, de la cual Picasso sacó provecho viendo, de primera mano, la magnitud de las grandes escenas históricas, tan en boga por entonces. Actualmente, el edificio es sede del Ateneo de Málaga. Cuenta con sala de exposiciones en las que tienen lugar muestras de Artes Plásticas. Es visitable.\n",
+                "DIRECCION": "PLAZA DE LA CONSTITUCIÓN, 3 ",
+                "URL": "www.ateneomalaga.org",
+                "EMAIL": "info@ateneomalaga.org",
+                "CONTACTO": null,
+                "HORARIOS": "De lunes a Viernes: 18:00 - 21:30 h. ",
+                "PRECIOS": null,
+                "TITULARIDAD": "MUNICIPAL",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4dfe",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42301302,
+                    36.72447148,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4318,
+                "NOMBRE": "Antiguo Conservatorio María Cristina",
+                "DESCRIPCION": "Periodo: siglos XV-XIX. En sus orígenes fue el denominado Convento de San Francisco, construido a finales del siglo XV y deshabitado tras la desamortización de Mendizábal. Luego, el edificio lo ocupó el Liceo de Málaga y la Sociedad Malagueña de Ciencias, y ya en 1880 fue sede del Conservatorio de Música María Cristina, hasta su traslado en 1971. Cuenta en su interior con murales de Nogales Sevilla, Sixto Cappa, Martínez de la Vega, Denis Belgrano, Moreno Carbonero, Emilio Ocón, Muñoz Degrain, Ponce, Nogales, Alvarado, Blanco Coris, Merino y Simonet. Del exterior destaca su hermosa torre mudéjar. Fue reconstruido por el arquitecto Enrique Atencia Molina y forma parte actualmente de la Fundación Unicaja teniendo lugar en ella diversas actividades culturales. En este Liceo, verdadero museo pictórico y biblioteca del XIX, en una de sus piezas llamada 'El Senado' se celebraron las tertulias de sus socios más distinguidos, y fue aquí donde Pablo Picasso sería bautizado con champán por Martínez de la Vega, con motivo del éxito obtenido por el joven artista en las exposiciones Nacional y Provincial de Bellas Artes de 1897, con su obra 'Ciencia y Caridad.",
+                "DIRECCION": "CALLE MARQUÉS DE VALDECAÑAS, 2 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "PRIVADA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "Si",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4dff",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42194,
+                    36.72122991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4338,
+                "NOMBRE": "Fuente de Génova",
+                "DESCRIPCION": "Periodo: Siglo XVII. La Fuente de Carlos V, también conocida como la Fuente de Génova del siglo XVI, es una graciosa manifestación del renacimiento italiano. Fuente de mármol, que la tradición considera genovesa y llegada a Málaga en circunstancias no claras, aunque se sabe documentalmente que el Ayuntamiento pagó por ella más de 1000 ducados. Está decorada con motivos acuáticos, ninfas, niños con delfines, etc. Cuenta de una gran taza dodecagonal decorada con motivos estriados, de cuyo centro arranca un vástago dividido en varios cuerpos. El inferior presenta tres figuras de sirenas con sus colas entrelazadas sosteniendo coronas de flores y en el inmediatamente superior hay otras tres figuras femeninas semidesnudas con delfines que quizás representan a las ninfas, sobre este cuerpo se abre otra taza con mascarones en los bordes que escupen el agua y de ella arranca un pedestal con tres figuras, también entrelazadas una de las cuales parece representar a Neptuno. De otra pequeña taza, muy desgastada con restos de cabecitas de puttis, surge un vástago decorado con figuras de niños con delfines en los hombros y se corona con un águila. ",
+                "DIRECCION": "PLAZA DE LA CONSTITUCIÓN, 5 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": "Exposición pública 24 horas al día 365 días al año",
+                "PRECIOS": null,
+                "TITULARIDAD": "MUNICIPAL",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4e00",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42402,
+                    36.71816991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4316,
+                "NOMBRE": "Mercado Central de Atarazanas",
+                "DESCRIPCION": "Periodo: Siglo XIX. El nombre que recibe el hoy Mercado Central se debe a que en su lugar estuvo un edificio llamado las Atarazanas (que significa taller o lugar de fabricación). El actual edificio se construyó en el siglo XIX, por el arquitecto Joaquín de Rucoba, permaneciendo de la anterior edificación sólo la puerta, labrada en mármol.",
+                "DIRECCION": "CALLE ATARAZANAS, 10 ",
+                "URL": "http://www.malaga.eu",
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": "De 8:00 a 14:00 de lunes a sábado.",
+                "PRECIOS": null,
+                "TITULARIDAD": "MUNICIPAL",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4e01",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41976122,
+                    36.72068244,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4314,
+                "NOMBRE": "Iglesia del Sagrario",
+                "DESCRIPCION": "Periodo: Siglos XV-XVIII. Se encuentra junto a la Catedral. Lo más destacable en ella es su portada, que da a calle Santa María, frente al hospital de Santo Tomé. Es de estilo gótico isabelino y en su parte superior aparecen el cardenal Pedro de Mendoza y el confesor de la reina Isabel la Católica, Hernado de Talavera, ofreciendo a la Virgen la mezquita ya consagrada. También es digno de mención el retablo plateresco.",
+                "DIRECCION": "CALLE SANTA MARÍA, 22 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": "9:30 a 12:30 h. y  18:30 a 19:30 h. (martes a sábado)",
+                "PRECIOS": null,
+                "TITULARIDAD": "PRIVADA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4e02",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41365623,
+                    36.72683133,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4321,
+                "NOMBRE": "Capilla de San Lázaro",
+                "DESCRIPCION": "Periodo: Siglo XV.\n\nFue fundada por los Reyes Católicos en 1491; en un principio como parte del Hospital que aquí se situara, en la actualidad sólo se conserva la capilla.\n\nLa capilla es de estilo mudéjar, tiene una sola nave con el presbiterio en alto y se cubre con dos armaduras de madera, cuadrada la del presbiterio y rectangular la de la nave. Desde 1711, la capilla es sede de la Hermandad Sacramental de Nuestro Padre Jesús de los Pasos del Monte Calvario y María Santisima del Rocio, agregada esta última más tarde.\n\nEntre la imaginería destaca un San José del siglo XVII y las respectivas imágenes de las cofradias inicialmente distintas: en el altar mayor en un retablo neobarroco se encuentra situada la imagen de vestir de la Virgen del Rocío y en el altar lateral la de Jesús Nazareno de los Pasos en el Monte Calvario. También destaca la cripta-enterramiento, cubierta con bóveda de cañón, en donde se realizaron a finales del siglo XVII, unas pinturas de gran expresividad reflejando la transición entre la vida y la muerte. Los nichos coronados por cráneos con tibias cruzadas y los emblemas mortuorios que encarnan a las parcas y a la muerte, componen una escalofriante alegoría.",
+                "DIRECCION": "PLAZA DE LA VICTORIA, 19 ",
+                "URL": "http://www.diócesismálaga.es/sanlazaro",
+                "EMAIL": "sanlazaro@diocesismalaga.es",
+                "CONTACTO": null,
+                "HORARIOS": "INVIERNO Diario: 18.30 - 19.30 h. \nDomingos y festivos: 10.00 - 11.30 y 12.30 y 19.30 h. \nVERANO Diario: 19.00 y 20.00 h. Domingos y festivos: 10.00 - 11.30 y 20.00 h.",
+                "PRECIOS": null,
+                "TITULARIDAD": "PRIVADA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "Si",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4e03",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4214,
+                    36.72539991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4310,
+                "NOMBRE": "Iglesia de San Felipe Neri",
+                "DESCRIPCION": "Periodo: Siglo XVIII.El origen de la iglesia está en una capilla que el Conde de Buenavista edificó entre 1720-1730, al lado de una casa palacio que poseía en la calle Gaona. Se abrió al culto en 1785.La fachada de la iglesia responde a un diseño clásico, con portada en dos cuerpos entre dos torres salientes. Las portadas laterales, rematadas con robustos elementos curvos responden a un diseño más integrado en las formas finales del siglo XVIII. Son interesantes los escafriados que decoran la primitiva capilla en su muro exterior, formando dibujos geométricos entrelazados en rojo y ocre; cronológicamente responden a la decoración del primer cuarto del siglo XVIII.Como obras destacadas encontramos tallas de vestir, la Virgen de Consolación y Lágrimas de la Archicofradía de la Sangre, del siglo XVIII (restaurada en 1972 por Álvarez Duarte) y el Crucificado, obra de Francisco Palma Burgos (1941). En el presbiterio es de destacar el baldaquino de corte neoclásico, obra realizada en 1795 en mármoles polícromos y madera, atribuido a José Martín de Aldehuela. En el otro lado de la iglesia encontramos un Ecce-Homo en barro policromado del siglo XVIII. La capilla central la ocupa el retablo de la Orden Tercera de Siervos de María, realizado en el siglo XX, talla dorada del siglo XVIII, y lo preside la Virgen de los Dolores, imagen de vestir de Fernando Ortíz. Sobre el balcón del Coro, un escudo de la orden de los filipenses es el único resto de la caja del órgano que realizó Aldehuela.",
+                "DIRECCION": "CALLE CABELLO, 20 ",
+                "URL": "http://www.diocesismalaga.es",
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": "Mañana de Martes a Viernes: 9:00 a 12:00 h. \nTardes de Martes a Jueves: 17:00 a 19:30 h.",
+                "PRECIOS": null,
+                "TITULARIDAD": "PRIVADA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "Si",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4e04",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41649,
+                    36.71970991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4317,
+                "NOMBRE": "Casa del Jardinero",
+                "DESCRIPCION": "Periodo: Siglo XX. Construida en 1908, fue utilizada como vivienda por el jardinero mayor del Ayuntamiento. Se encuentra rodeada de una frondosa vegetación, que casi la oculta desde el exterior. La construcción es de escasas dimensiones y ocupa el centro del jardín, lo que permite su observación desde todos los ángulos.",
+                "DIRECCION": "AVENIDA DE CERVANTES, 1 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "MUNICIPAL",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "Si",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4e05",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41556,
+                    36.72003991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4358,
+                "NOMBRE": "Rectorado de la Universidad de Málaga. Antiguo Edificio de Correos. Sala de exposiciones.",
+                "DESCRIPCION": "PERIODO Siglo XX. Edificio proyectado por Teodoro de Anasagasti, inagurado en 1923, para albergar las dependencias de correos. Su estilo Neomudéjar lo convierte en un hito arquitectónico muy valorado. Es de planta cuadrada con las esquinas de la fachada principal redondeadas, en las cuales se empotran unas torrecillas circulares, la de la izquierda sobresale en altura y se cubre con un tejadillo que le da una apariencia oriental. Edificio decorativo que mantuvo siempre una relación entre la estética y la funcionalidad, que prima por encima de cualquier otra consideración en el edificio. Este antiguo edificio de Correos y Telégrafos, ejerció su función hasta 1986. En la actualidad ha sido rehabilitado para convertirse en la sede del Rectorado de la Universidad de Málaga. ",
+                "DIRECCION": "AVENIDA DE CERVANTES, 2 ",
+                "URL": "http://www.uma.es",
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "AUTONOMICA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4e06",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41554361,
+                    36.71993709,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4320,
+                "NOMBRE": "Banco de España",
+                "DESCRIPCION": "PERIODO\nSiglo XX\n\nEdificio de porte neoclásico, diseñado por el arquitecto José Yarnoz entre 1933-36. El modelo templario greco-romano que lo representa no se reproduce con exactitud en el inmueble, que potencia su sentido de estabilidad. El pórtico columnado, que preside el frente principal hacia el Parque, representa el principal enlace con la arquitectura histórica. Remite a la idea de gran edificio publico, tanto antiguo como contemporáneo. Presenta tres plantas con un imponente pórtico hexástilo de orden corintio muy acorde con la imagen simbólica y estable de una sede bancaria.",
+                "DIRECCION": "AVENIDA DE CERVANTES, 3 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "PRIVADA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4e07",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41493,
+                    36.72013991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4303,
+                "NOMBRE": "Ayuntamiento de Málaga (Casa Consistorial)",
+                "DESCRIPCION": "Edificio principal del Ayuntamiento de Málaga.Periodo: Siglo XX.El 11 de abril del 1919 el Exmo. Ayuntamiento tomó posesión de la que es su sede hasta nuestros días. El nuevo edificio, obra de los arquitectos Guerrero Strachan y Manuel Rivera Vera, vendría a satisfacer una doble necesidad: por un lado, hacer frente a la creciente demanda administrativa de una ciudad en desarrollo y, por otro, proyectar una imagen renovada, de prestigio y de progreso. Se proyectó no sólo como consistorio, sino también como sede de la Audiencia Provincial y de los Juzgados de Instrucción. El edificio se encuentra en el Paseo del Parque, localizándose en la principal vía de comunicación, integrando el espacio que lo acoge como un elemento más de decoración, dada su representatividad como monumento artístico que viene dado por la decoración de sus fachadas y de los salones que acoge en su interior, que transmite valores de prestigio.",
+                "DIRECCION": "AVENIDA DE CERVANTES, 4 ",
+                "URL": "http://www.malaga.eu",
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "MUNICIPAL",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "Si",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4e08",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42331633,
+                    36.72346591,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4353,
+                "NOMBRE": "Palacio del Marqués de Valdeflores",
+                "DESCRIPCION": "PERIODO: Siglo XVIII. DESCRIPCIÓN: Este edificio se ubica en calle Carretería. Restaurado en 1987 para albergar el Servicio Provincial de la Mujer. Es obra de finales del siglo XVIII con adiciones del XIX. Conserva una austera portada de mármol blanco compuesta por pilastras cajeadas que soportan un sencillo balcón; tras la reja del zaguán se encuentra un patio que ha conservado sus arquerías dieciochescas sobre columnas de mármol en tres de sus lados, y a la izquierda se abre la escalera con balaustrada de mármol blanco clásica. En las dependencias superiores se han conservado algunos techos originales, así como chimeneas y algunos espacios de interés.",
+                "DIRECCION": "CALLE CARRETERÍA, 60 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "AUTONOMICA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4e09",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42267,
+                    36.72131991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4315,
+                "NOMBRE": "Iglesia del Santo Cristo de la Salud",
+                "DESCRIPCION": "Periodo: Siglo XVI. El primer edificio que nos encontramos a la derecha de la calle Compañía es la Iglesia del Santo Cristo de la Salud. Los Jesuitas, al haber realizado misiones en Málaga, decidieron en 1572 asentarse definitivamente en Málaga, comprando una casa al lado de la ermita de San Sebastián, donde ejercían su ministerio. Al ser la ermita insuficiente para el culto, se determinó construir una nueva iglesia. Las obras no se comenzaron hasta 1598, y se inaguró el 28 de septiembre de 1630, pero el retablo del altar mayor junto con el tabernáculo se labraron en 1633 y la decoración pictórica del anillo y media naranja de la cúpula se realizó entre 1639 y 1643, continuándose los trabajos de decoración hasta 1644, y aún más tarde los de los altares y capillas, que ocuparon los santos más significativos de la Compañia.",
+                "DIRECCION": "CALLE COMPAÑÍA, 4 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": "En restauración",
+                "PRECIOS": null,
+                "TITULARIDAD": "PRIVADA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4e0a",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42125713,
+                    36.72300976,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4332,
+                "NOMBRE": "Antiguo Colegio de San Rafael",
+                "DESCRIPCION": "Contaba Pablo Picasso unos seis o siete años cuando los padres decidieron enviarle - tras pasar, posiblemente, por una \"miga\" (parvulario) de calle San Agustín - a un colegio, el de San Rafael. Este colegio, que se hallaba en el número 20 de calle Comedias, era dirigido por don Emilio Gutiérrez, y sabemos, por el propio Picasso, cómo cada mañana la niñera, Carmen Mendoza - modelo de uno de sus dibujos de juventud - le arrastraba hasta allí. El paso del pintor malagueño por esta escuela privada está llena de recuerdos. Ya anciano, relataba a sus biógrafos y amigos cómo pasaba las horas dibujando y mirando a través de la ventana, cómo se escapaba para visitar, en el mismo local, a la esposa del director, y los objetos personales del padre que llevaba consigo a las aulas (un pincel, un bastón, una paloma... ) como garantía de que, a la una de la tarde, pasarían a recogerle. Esta escuela de San Pedro y San Rafael ya en el siglo XX, se trasladaría a la Plaza de San Francisco, donde se había ubicado también el citado Liceo Artístico y Literario malagueño. Actualmente este edificio no es visitable.\n",
+                "DIRECCION": "CALLE COMEDIAS, 20 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "PRIVADA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4e0b",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42235,
+                    36.72235991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4309,
+                "NOMBRE": "Iglesia de los Santos Mártires",
+                "DESCRIPCION": "Periodo: Siglos XV-XVIII.Esta iglesia se sitúa en la Plaza de los Mártires, cerca de la iglesia del Cristo de la Salud y de la sociedad económica de los amigos del pais. Fundada después de la conquista, probablemente en 1491, aunque fue erigida en parroquia en el 1505 por Diego de Deza. Su nombre lo debe al deseo de los Reyes Católicos de recuperar el culto a los mártires locales, Santa Paula y San Ciriaco.",
+                "DIRECCION": "PLAZA DE LOS MÁRTIRES CIRIACO Y PAULA, 1 ",
+                "URL": "http://www.diocesismalaga.es",
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": "Lunes a Viernes de 9:30 a 13:30 h. y de 18:00 a 20:30 h.\nSábados de 9:30 a 13:30 h. y de 19:00 a 20:30 h.\nDomingos de 11:00 a 13:30 h. y de 18:00 a 20:30 h.",
+                "PRECIOS": null,
+                "TITULARIDAD": "PRIVADA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "Si",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4e0c",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42951,
+                    36.71700991,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4339,
+                "NOMBRE": "Fuente de las tres Gitanillas",
+                "DESCRIPCION": "Periodo: Siglo XX. El diseño de la fuente se inspira en la estructura de niveles y volúmenes de la Fuente de las Tres Gracias situada en la plaza de Torrijos. Proyectada en 1959 porMorilla y Ortega siendo esculpida posteriormente por Adrián Risueño utilizando piedras del Torcal de Antequera. En esta fuente se representan tres gitanas o figuras femeninas con abanicos y vestidas con traje de volantes.",
+                "DIRECCION": "PLAZA POETA MANUEL ALCÁNTARA, 1 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": "Retirada provisionalmente por obras. Exposición pública 24 horas al día 365 días al año",
+                "PRECIOS": null,
+                "TITULARIDAD": "MUNICIPAL",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4e0d",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.44046696,
+                    36.6985678,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4326,
+                "NOMBRE": "Antigua Fabrica de Tabaco",
+                "DESCRIPCION": "Periodo: Siglo XX.\n\nLa Fábrica de Tabaco fue edificada en los años treinta del presente siglo en el barrio de Huelin según el proyecto de los ingenieros industriales Juan Francisco Delgado y Carlos Dendariena y el ingeniero de caminos Fernando Guerra\n\nEl conjunto se organiza en tres patios abiertos, que acogen cada una de sus tres funciones: venta, fermentación y fabricación. Se accede al patio principal a través de una hermosa verja de hierro, después de la cual nos encontramos a izquierda y a derecha con dos edificios de estilo regionalista sevillano, destinados a viviendas del director y a oficinas. En sus lienzos murales pueden contemplarse el ladrillo visto para las esquinas y contornos de los vanos, el blanco para los fondos y la cerámica vidriada de colores azul y amarillo para los frisos. Las cubiertas son terrazas y en los remates hay pirámides con bolas inspiradas en la arquitectura sevillana. ",
+                "DIRECCION": "AVENIDA DE SOR TERESA PRAT, 17 ",
+                "URL": null,
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": null,
+                "PRECIOS": null,
+                "TITULARIDAD": "MUNICIPAL",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "Si",
+                "INFOESP": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "da_cultura_ocio_monumentos.fid--5bd208d4_18b130bd7cf_4e0e",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41306872,
+                    36.7290467,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "properties": {
+                "ID": 4361,
+                "NOMBRE": "Museo y Basílica de Santa María de la Victoria",
+                "DESCRIPCION": "Periodo: Siglos XV al XVII.Centro mariano dedicado al culto de la Virgen de la Victoria, patrona de la diócesis de Málaga. Sus orígenes se remontan a los años del cerco de Málaga por los Reyes Católicos.\r\nEl templo, inaugurado en 1700, tiene planta de cruz latina, más de dos capillas, coro elevado a los pies y, entre las pilastras, pequeños balcones-tribuna abiertos a la nave central. Tiene la forma típica de las iglesias de la Contrarreforma, con la nave central mucho más ancha y más alta que las laterales, la luz dirigida, las naves de capillas comunicadas entre sí, la bóveda del crucero y el espacio luminoso tras el retablo.Una de sus principales características es su conjunto cripta - sacristía - camarín. En su interior se encuentra el Panteón de los Condes de Buenavista",
+                "DIRECCION": "PLAZA DEL SANTUARIO, 1 ",
+                "URL": "http://www.santamariadelavictoria.com/",
+                "EMAIL": null,
+                "CONTACTO": null,
+                "HORARIOS": "Horario de la visita, de Martes a sábado de 10:00 a 13:00 h. \r\nCerrado Lunes, domingos y festivos.",
+                "PRECIOS": "Visita individual: 2 euros\r\nVisita grupos mayores de diez personas: 1,50 euros",
+                "TITULARIDAD": "PRIVADA",
+                "TARJETAJOVEN": "No",
+                "ACCESOPMR": "No",
+                "INFOESP": null
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    }
+}

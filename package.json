@@ -1,0 +1,16 @@
+{
+  "name": "malaga-map-app",
+  "version": "1.0.0",
+  "description": "Vista de mapa de puntos de interes turisticos de Malaga con favoritos",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js"
+  },
+  "type": "commonjs",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1"
+  }
+}
